@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+  <img alt="dev.finances" title="dev.finances" src="https://media.discordapp.net/attachments/609614458884718594/901175310253445170/print-projeto-dev-finance-logo.png" width="220px" />
 </h1>
 
 <p align="center">
