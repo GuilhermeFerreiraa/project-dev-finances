@@ -9,16 +9,9 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
-<br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
+  <img alt="dev.finances" src="https://media.discordapp.net/attachments/609614458884718594/901175314321907822/print-projeto-dev-finances.png?width=1185&height=676" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -43,4 +36,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Desenvolvido por Guilherme - Licença Rocketseat.
