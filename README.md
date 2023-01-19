@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src="https://media.discordapp.net/attachments/609614458884718594/901175310253445170/print-projeto-dev-finance-logo.png" width="220px" />
-</h1>
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -22,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-## 💻 Projeto
+## 💻 Projeto - Acessar link do projeto: https://dev-finance-front.netlify.app
 
 O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
