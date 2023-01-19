@@ -18,7 +18,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-## 💻 Projeto - Acessar link do projeto: https://dev-finance-front.netlify.app
+## 💻 Projeto
+Acessar link do projeto: https://dev-finance-front.netlify.app
 
 O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
